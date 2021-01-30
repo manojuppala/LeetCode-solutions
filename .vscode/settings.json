@@ -4,5 +4,6 @@
         "any": "cpp",
         "string_view": "cpp",
         "regex": "cpp"
-    }
+    },
+    "python.pythonPath": "C:\\Users\\manoj\\anaconda3\\python.exe"
 }
